@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs
 
+## 0.5.4
+
+### Patch Changes
+
+- Updated dependencies [33846acfc]
+- Updated dependencies [f04db53d7]
+- Updated dependencies [53c9c51f2]
+- Updated dependencies [a93f42213]
+  - @backstage/plugin-catalog@0.2.12
+  - @backstage/techdocs-common@0.3.5
+  - @backstage/catalog-model@0.7.0
+
 ## 0.5.3
 
 ### Patch Changes

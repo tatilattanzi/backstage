@@ -1,5 +1,15 @@
 # @backstage/plugin-org
 
+## 0.3.4
+
+### Patch Changes
+
+- Updated dependencies [33846acfc]
+- Updated dependencies [f04db53d7]
+- Updated dependencies [a93f42213]
+  - @backstage/plugin-catalog@0.2.12
+  - @backstage/catalog-model@0.7.0
+
 ## 0.3.3
 
 ### Patch Changes
